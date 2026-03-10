@@ -12,6 +12,7 @@
     "type": "module",
     "dependencies": {
         "@anthropic-ai/sdk": "^0.78.0",
+        "better-sqlite3": "^12.6.2",
         "dotenv": "^17.3.1",
         "glob": "^13.0.6",
         "p-limit": "^7.3.0",
